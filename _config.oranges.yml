@@ -21,13 +21,13 @@
 # 网站图标
 favicon:
   enable: true
-  icon: /images/favicon.png
-  touch_icon: /images/favicon.png
+  icon: /images/z3u.jpg
+  touch_icon: /images/z3u.jpg
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/avatar.png
-  author_nickname: Oranges
+  author_photo: /images/z3u.jpg
+  author_nickname: z3u
   path: /
 
 # Google 分析
@@ -91,7 +91,7 @@ navbar:
     key: archives
   -
     name: Categories
-    enable: false
+    enable: true
     path: /categories/
     key: categories
   -
@@ -123,14 +123,14 @@ friends:
   # nickname: 昵称
   # site: 地址
   # meta: 描述
-  -
-    nickname: Zcheng
-    site: https://zcheng.site/
-    meta:
-  -
-    nickname: Hexo
-    site: https://hexo.io/
-    meta:
+  # -
+  #   nickname: Zcheng
+  #   site: https://zcheng.site/
+  #   meta:
+  # -
+  #   nickname: Hexo
+  #   site: https://hexo.io/
+  #   meta:
 
 # 页脚信息
 footer:

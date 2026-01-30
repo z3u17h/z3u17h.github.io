@@ -21,12 +21,12 @@
 # 网站图标
 favicon:
   enable: true
-  icon: /images/z3u.jpg
-  touch_icon: /images/z3u.jpg
+  icon: /images/z3u.png
+  touch_icon: /images/z3u.png
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/z3u.jpg
+  author_photo: /images/z3u.png
   author_nickname: z3u
   path: /
 

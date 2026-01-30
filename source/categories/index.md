@@ -1,5 +1,5 @@
 ---
-title: categories
+title: tags
 date: 2025-12-24 09:55:37
 type: "categories"
 categories:

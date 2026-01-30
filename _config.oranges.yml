@@ -21,11 +21,12 @@
 # 网站图标
 favicon:
   enable: true
-  icon: /images/z3u.png
-  touch_icon: /images/z3u.png
+  icon: /images/z3u.ico
+  touch_icon: /images/z3u.ico
 
 # 用户头像与昵称
 avatar:
+  enable: true
   author_photo: /images/z3u.png
   author_nickname: z3u
   path: /
@@ -123,14 +124,10 @@ friends:
   # nickname: 昵称
   # site: 地址
   # meta: 描述
-  # -
-  #   nickname: Zcheng
-  #   site: https://zcheng.site/
-  #   meta:
-  # -
-  #   nickname: Hexo
-  #   site: https://hexo.io/
-  #   meta:
+  -
+    nickname: z3u
+    site: https://z3u17h.github.io/
+    meta:
 
 # 页脚信息
 footer:
